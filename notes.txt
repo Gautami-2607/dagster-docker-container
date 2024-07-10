@@ -1,0 +1,3 @@
+1. To create new project using dagster: dagster project scaffold --name=etl
+2. Do cd etl and run - dagit
+3. Do cd etl and run - dagster-daemon run or dagster dev 
